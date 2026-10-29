@@ -22,3 +22,6 @@ This project analyzes employee attrition and workforce trends using Excel and Po
 
 ## Conclusion
 This project demonstrates the use of Excel and Power BI to analyze workforce data and communicate employee attrition insights through data visualization.
+## Dashboard Preview
+
+![HR Employee Attrition Dashboard](YOUR-SCREENSHOT-FILENAME.png)
